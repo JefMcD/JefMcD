@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JefMcD
 - 👀 I’m interested in ... Web Development, AI, Music and  Graphic Art
-- 🌱 I’m currently learning ... Django, Python, CSS, javascript and Web Development
+- 🌱 I’m currently learning ... How to Love the Bomb and Stop Worrying
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... send me a message
 
